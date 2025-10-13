@@ -3,7 +3,7 @@ Track record of the live (net) performance of my personal trading account (post 
 
 Data is recorded as daily fractional changes in USD, using market closing prices, ie 0.1 = 10% change.
 
-Headline figures:  
+Headline figures (β relative to SP500 index):  
 **α** = 13.7%  (annualised)  
 **β** = 0.25  
 Sharpe = 1.43 (of **β** neutral returns)
