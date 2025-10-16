@@ -7,3 +7,6 @@ Headline figures (β relative to SP500 index):
 **α** = 13.7%  (annualised)  
 **β** = 0.25  
 Sharpe = 1.43 (of **β** neutral returns)
+
+**β-neutral return:**
+R<sub>t</sub><sup>neutral</sup> = R<sub>t</sub><sup>sys</sup> − β̂ R<sub>t</sub><sup>mkt</sup>
