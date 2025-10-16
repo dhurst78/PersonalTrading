@@ -10,4 +10,4 @@ Sharpe = 1.43 (of **β** neutral returns)
 
 **β-neutral return:**
 
-R<sub>t</sub><sup>neutral</sup> = R<sub>t</sub><sup>sys</sup> − β · R<sub>t</sub><sup>mkt</sup>
+R<sub>t</sub><sup>β-neutral</sup> = R<sub>t</sub><sup>system</sup> − β · R<sub>t</sub><sup>mkt</sup>
