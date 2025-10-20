@@ -3,7 +3,7 @@ Track record of the live (net) performance of my personal trading account (post 
 
 Data is recorded as daily fractional changes in USD, using market closing prices, ie 0.1 = 10% change.
 
-The trading system adopts long positions in US and UK stocks. Long positions in index and commodity trackers are used for hedging purposes.
+The trading system adopts positions in US and UK stocks. Positions in index and commodity trackers are used for hedging purposes.
 
 Headline figures (β relative to SP500 index):  
 **α** = 13.9%  (annualised)  
