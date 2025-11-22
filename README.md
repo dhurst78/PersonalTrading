@@ -6,8 +6,10 @@ Data is recorded as daily fractional changes in USD, using market closing prices
 The trading system adopts positions in US and UK stocks. Positions are also taken in index and commodity trackers, primarily for hedging purposes.
 
 Headline figures (β relative to SP500 index):  
+R<sub>t</sub><sup>system</sup> = α − β · R<sub>t</sub><sup>mkt</sup>
 **α** = 12.5%  (annualised)  
 **β** = 0.25  
+
 Sharpe = 1.35 (of **β** neutral returns)
 
 **β-neutral return:**
