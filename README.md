@@ -14,6 +14,6 @@ R<sub>t</sub><sup>system</sup> = α − β · R<sub>t</sub><sup>mkt</sup>
 
 **β-neutral return:**
 
-Sharpe = 1.35 (of **β** neutral returns)
-
 R<sub>t</sub><sup>β-neutral</sup> = R<sub>t</sub><sup>system</sup> − β · R<sub>t</sub><sup>mkt</sup>
+
+Sharpe = 1.35 (of **β** neutral returns)
