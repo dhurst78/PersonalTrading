@@ -9,7 +9,7 @@ Headline figures (β relative to SP500 index):
 
 **α** = 12.5%  (annualised)  
 **β** = 0.25  
-R<sub>t</sub><sup>system</sup> = α − β · R<sub>t</sub><sup>mkt</sup>
+R<sub>t</sub><sup>system</sup> = α + β · R<sub>t</sub><sup>mkt</sup>
 
 
 **β-neutral return:**
